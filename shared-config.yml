@@ -1,0 +1,3 @@
+
+jwt:
+  secret: mysecretkeyforjwtauthentication123456 
